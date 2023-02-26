@@ -9,4 +9,5 @@ Just a old setup of UUBooster that I re-upload for who interested
 ## Method 2
 
 Step 1: you should download UUBooster.bat from **release**
+
 ![alt text](https://github.com/tedddeptrai/UUBooster-3.5.0-oldsetup/blob/main/step1.png?raw=true)
