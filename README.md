@@ -16,3 +16,7 @@ Step 2: Open the properties of the shortcut that you created and click to **Adva
 
 ![alt text](https://github.com/tedddeptrai/UUBooster-3.5.0-oldsetup/blob/main/step2.png?raw=true)
 
+Step 3: Edit the file to fit to your network connection.
+
+![alt text](https://github.com/tedddeptrai/UUBooster-3.5.0-oldsetup/blob/main/step3.png?raw=true)
+
