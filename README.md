@@ -1,4 +1,4 @@
-# UUBooster-3.5.0-oldsetup
+# UUBooster-3.5.0
 Just a old setup of UUBooster that I re-upload for who interested
 
 ## Method 1
