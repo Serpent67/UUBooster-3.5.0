@@ -20,3 +20,10 @@ Step 3: Edit the file to fit to your network connection.
 
 ![alt text](https://github.com/tedddeptrai/UUBooster-3.5.0-oldsetup/blob/main/step3.png?raw=true)
 
+## Why?
+
+Imagine you open UUBooster and see this, that would be really cringe
+
+![alt text](https://github.com/tedddeptrai/UUBooster-3.5.0/blob/main/cringe.png?raw=true)
+
+**If UUBooster outdated, it means this repository gotta be closed forever**
