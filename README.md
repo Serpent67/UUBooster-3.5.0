@@ -1,4 +1,4 @@
-# UUBooster-3.5.0
+# UUBooster-3.5.0 [OUTDATED 3/1/2023]
 Just a old setup of UUBooster that I re-upload for who interested
 
 ## Method 1
